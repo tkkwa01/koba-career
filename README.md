@@ -1,9 +1,10 @@
-# Koba Career API
+# Koba Career API（作成中）
 学習用に作った簡易的な掲示板アプリのAPI
 
-# Develop memo
-Spring Initializerで作るときにgradleのバージョンは2系を使う．Javaのバージョンは11を使う．
-
+# Develop memo  
+開発段階で詰まったところのメモ．
+### Enviroment Setting
+Spring Initializerで作るときにgradleのバージョンは2系を使う．Javaのバージョンは11を使う．   
 IntelliJの設定で[File] → [Project Structure]でJDKのバージョンを11に指定する．
 
 `build.gradle.kts`に以下を追加する．
